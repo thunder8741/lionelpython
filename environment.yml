@@ -1,0 +1,12 @@
+dependencyies:
+  - python=3
+  - pip:
+    - spacy
+    - ipykernel
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - thinc
+    - pyecharts
